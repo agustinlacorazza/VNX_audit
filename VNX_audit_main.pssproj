@@ -26,7 +26,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Script1.ps1" />
+    <Compile Include="VNX_transform_and_merge_to_excel.psm1" />
     <Compile Include="VNX_block_audit_colector.psm1" />
     <Compile Include="VNX_block_audit_parse.psm1" />
     <Compile Include="VNX_file_audit_parse.psm1" />
