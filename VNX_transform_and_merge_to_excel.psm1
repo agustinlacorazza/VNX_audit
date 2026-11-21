@@ -1,6 +1,6 @@
 #
 # Transform CSV and Merge Excel for VNX FILE/Block Audit 2018 
-# for Technical issues, please contact Agustin Lacorazza | agustin.lacorazza@ar.ey.com
+# Author: Agustin Lacorazza
 # Using PsExcel Module: https://github.com/dfinke/ImportExcel 
 #
 Import-Module PSExcel -force

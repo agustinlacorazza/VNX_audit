@@ -1,5 +1,5 @@
-﻿# Colector script for VNX File Audit 2018 
-# for Technical issues, please contact Agustin Lacorazza | agustin.lacorazza@ar.ey.com
+# Colector script for VNX File Audit 2018 
+# Author: Agustin Lacorazza
 #
 
 Import-Module C:\storage_report\DEV\VNX\Audit_script\Main_Script\RepTools.psm1 -Force

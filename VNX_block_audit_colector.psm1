@@ -1,6 +1,6 @@
 #
 # Colector script for VNX Block Audit 2018 
-# for Technical issues, please contact Agustin Lacorazza | agustin.lacorazza@ar.ey.com
+# Author: Agustin Lacorazza
 #
 #
         

@@ -1,5 +1,5 @@
 # Parsing script for VNX Block Audit 2018 
-# for Technical issues, please contact Agustin Lacorazza | agustin.lacorazza@ar.ey.com
+# Author: Agustin Lacorazza
 #
 #
 #
@@ -16,13 +16,13 @@ New-Item -ItemType Directory -Path "C:\storage_report\DEV\VNX\Audit_script\outpu
 #
 #_Content information:
 #__Directories information:
-#___Dinamic Information | ¡! Only change this: 
+#___Dinamic Information | ï¿½! Only change this: 
 #
 $rawdirectory = "C:\storage_report\DEV\VNX\Audit_script\outputblock\raw"    # -> Input
 $parseddirectory = "C:\storage_report\DEV\VNX\Audit_script\outputblock\parsed" # -> Output
 
 
-#Static Information below | ¡! Don't need to change
+#Static Information below | ï¿½! Don't need to change
 $networkblock = Get-Content $rawdirectory\$date\networkblock.txt
 $getcrus = Get-Content $rawdirectory\$date\getcrus.txt
 $ntpinfoblock = Get-Content $rawdirectory\$date\ntpinfoblock.txt

@@ -1,5 +1,5 @@
 # Start Audit script for VNX File Audit 2018 
-# for Technical issues, please contact Agustin Lacorazza | agustin.lacorazza@ar.ey.com
+# Author: Agustin Lacorazza
 #
 Clear-Host
 
