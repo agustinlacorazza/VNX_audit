@@ -40,3 +40,5 @@ Change them at the top of each script to match your layout, and put the Navisphe
 - The audit only reads configuration. Review the commands in the collector modules before you run them.
 
 Written in 2018. It is kept here for reference and is not actively maintained.
+
+Licence: MIT.
